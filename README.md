@@ -24,4 +24,6 @@ A software engineering student at [1337 School](https://1337.ma), part of the [4
 
 ### 📫 Let's Connect
 
-- 💼 [[LinkedIn (optional link)](#)](https://www.linkedin.com/in/adil-echajiai-bb70b0255/)
+- <a href="https://www.linkedin.com/in/adil-echajiai-bb70b0255/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
+</a>
