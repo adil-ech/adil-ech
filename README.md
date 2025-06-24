@@ -8,16 +8,15 @@ A software engineering student at [1337 School](https://1337.ma), part of the [4
 
 ---
 
-### 🛠️ Tech I Like
+### 🛠️ Tech I Like AKA Languages & Tools
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Makefile](https://img.shields.io/badge/Makefile-3776AB?style=for-the-badge&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Low-Level](https://img.shields.io/badge/Low--Level%20Systems-000000?style=for-the-badge&logo=gear&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tooling](https://img.shields.io/badge/Developer%20Tools-0A0A0A?style=for-the-badge&logo=wrench&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell" width="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="Makefile" width="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/>&nbsp;
+<img src="https://img.icons8.com/ios-filled/50/000000/maintenance.png" alt="Developer Tools" width="28"/>
 - Exploring compilers, memory, and OS internals
 
 ---
