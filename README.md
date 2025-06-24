@@ -27,3 +27,6 @@ A software engineering student at [1337 School](https://1337.ma), part of the [4
 - <a href="https://www.linkedin.com/in/adil-echajiai-bb70b0255/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
 </a>
+- <a href="https://www.instagram.com/levi_ackerman7r/?source=omni_redirect" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="30"/>
+</a>
